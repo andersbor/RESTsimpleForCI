@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRESTforCI", "SimpleRESTforCI\SimpleRESTforCI.csproj", "{D232D8FC-7C79-4090-AFEF-4825EC1871B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{3C2F40FB-758D-4576-B27C-7BD8300B7F37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D232D8FC-7C79-4090-AFEF-4825EC1871B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D232D8FC-7C79-4090-AFEF-4825EC1871B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D232D8FC-7C79-4090-AFEF-4825EC1871B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2F40FB-758D-4576-B27C-7BD8300B7F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2F40FB-758D-4576-B27C-7BD8300B7F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2F40FB-758D-4576-B27C-7BD8300B7F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2F40FB-758D-4576-B27C-7BD8300B7F37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
